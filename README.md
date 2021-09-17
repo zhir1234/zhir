@@ -1,5 +1,5 @@
 * ```Discord Music Bot```
  
-* ```By ANO```
+* ```By Zhir```
 
 
